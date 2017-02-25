@@ -3,10 +3,11 @@ ARMful Docker image with python3 preinstalled.
 
 [![licence badge]][licence]
 
-# Build Details
 
-- [Source Repository](https://github.com/mmorita44/arm-python3)
-- [Dockerfile](https://github.com/mmorita44/arm-python3/blob/master/Dockerfile)
+# Supported tags and respective Dockerfile links
+
+- 3.5.2-r2, latest (stable/Dockerfile)
+- edge-3.6.0-r0 (edge/Dockerfile)
 
 # Usage
 
