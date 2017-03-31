@@ -1,7 +1,7 @@
 FROM hypriot/rpi-alpine-scratch:edge
 MAINTAINER Masato Morita <m.morita44@hotmail.com>
 
-ENV PYTHON_VERSION 3.6.0-r0
+ENV PYTHON_VERSION 3.6.1-r0
 ENV PYTHON_PIP_VERSION 9.0.1
 
 # install python3
